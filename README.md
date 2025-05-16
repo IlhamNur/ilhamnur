@@ -42,7 +42,12 @@ Tools:         Git, GitHub, Postman, Docker
 
 | 💼 Project | 📝 Description | 🛠️ Tech Stack |
 |-----------|----------------|--------------|
-| [Laravel Green House](https://github.com/IlhamNur/green-house) | Green House is a web-based application for **plant management** and **planting planning**, built with the **Laravel** framework. | Laravel, MySQL |
+| [Green House](https://github.com/IlhamNur/green-house) | Green House is a web-based application for **plant management** and **planting planning**, built with the **Laravel** framework. | Laravel, MySQL |
+| [Buku Tamu](https://github.com/IlhamNur/bukutamu.git) | **Buku Tamu** is a simple web-based guestbook application built with **Laravel**, allowing users to register their visit, upload files, and manage entries through a clean interface. | Laravel, MySQL |
+| [KARSA](https://github.com/IlhamNur/KARSA.git) | **KARSA** is a web app idea that combines social media and a literary reading application. | HTML, CSS |
+| [Mini Bank](https://github.com/IlhamNur/mini_bank.git) | **mini_bank** is a mini web-based banking application built with Laravel. This project provides basic features like user management, authentication, and role-based access control, making it suitable for learning or further development. | Laravel, MySQL |
+| [Sportouriz](https://github.com/IlhamNur/sportouriz.git) | **Sportouriz** is a web-based ticket booking platform designed for **paragliding sports**. Built using Laravel and modern web technologies, this application provides an interface for users to view, select, and book paragliding sessions conveniently. | Laravel, MySQL |
+| [Spotwicefy](https://github.com/IlhamNur/spotwicefy.git) | **Spotwicefy** is an Android music player application featuring a beautiful **pink theme** and a built-in **TWICE music playlist**. Developed using Kotlin and Java, Spotwicefy provides a smooth and visually pleasing experience for K-pop fans and music lovers. | Kotlin, Java |
 
 ---
 
